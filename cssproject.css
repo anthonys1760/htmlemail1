@@ -1,0 +1,23 @@
+h1 {
+  color: white;
+  /* border-color: purple;
+  border-width: 5px;
+  border-style: solid; */
+
+  border: 8px dashed purple;
+}
+
+h2 {
+  background: orange;
+}
+
+ul {
+  color: green;
+}
+
+body {
+
+  background: url(dubai_night-wide.jpg);
+  background-repeat;
+  background-size: cover;
+}
